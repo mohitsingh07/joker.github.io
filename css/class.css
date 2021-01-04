@@ -100,9 +100,12 @@ footer{
     align-items: center;
     justify-content: center;
     text-align: center;
+    min-height: 100px;
+    margin-top: 3%;
     
 }
 header{
     min-height: 40px;
     
 }
+
