@@ -44,6 +44,7 @@ nav .logo{
 nav .menu{
     width: 40%; display: flex; justify-content: space-around;
     color: white;
+    text-decoration: none;
 }
 nav a{
     color: white;
