@@ -49,6 +49,7 @@ nav .menu{
 nav a{
     color: white;
     font-weight: bold;
+    text-decoration: none;
 }
 main{
    width: 100%;
@@ -58,8 +59,7 @@ main{
     align-items: center;
     justify-content: center;
     text-align: center;
-    min-height: 400px;
-    margin-top: 3%;
+ 
     
 }
 
@@ -101,12 +101,8 @@ footer{
     align-items: center;
     justify-content: center;
     text-align: center;
-    min-height: 100px;
-    margin-top: 3%;
+    
     
 }
-header{
-    min-height: 40px;
-    
-}
+
 
